@@ -1,3 +1,14 @@
+
+原版的 Webcommander 是基于 windows 的，而公司的操作机大多基于linux，windows 的 PowerCLI 有时会有一些问题，导致运行失败，需要重新开启powershell窗口，且VMware.PowerCLI 模块加载缓慢。
+
+计划
+====
+
+1. 目前已经在linux下正常运行，主页显示正常，调试php也能调用pwsh执行简单的测试脚本。后续需要测试webcommander里面的复杂脚本，已经需要连接VC的脚本。
+2. 需要继续测试和修改。
+
+==========下面是原版文档==========
+
 Video Tutorials
 ===============
 
